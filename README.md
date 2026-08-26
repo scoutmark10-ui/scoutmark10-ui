@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hey, I'm Zynko
 
-<!--
-**scoutmark10-ui/scoutmark10-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack Developer  
+⚡ Electrical Engineering Student  
+🚀 Founder @ Zyron Labs  
+🇲🇿 Mozambique
 
-Here are some ideas to get you started:
+## 🛠️ Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JavaScript
+- Node.js
+- HTML & CSS
+- MySQL
+- Git & GitHub
+
+## 🚀 Currently Building
+
+- SIGFP
+- Zyron Labs projects
+- Web applications & digital products
+
+## 📊 GitHub
+
+I build, experiment, learn and ship.
