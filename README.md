@@ -139,25 +139,8 @@ Focus
 📊 GitHub Statistics
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=scoutmark10-ui&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&cache_seconds=1800" 
-    height="180"
-    alt="Handerson Diniz GitHub Statistics"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=scoutmark10-ui&layout=compact&theme=transparent&hide_border=true&langs_count=8&cache_seconds=1800" 
-    height="180"
-    alt="Handerson Diniz Top Languages"
-  />
-</p>---
-
-🔥 GitHub Streak
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=scoutmark10-ui&theme=transparent&hide_border=true&cache_seconds=1800"
-    alt="Handerson Diniz GitHub Streak"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=scoutmark10-ui&show_icons=true&theme=transparent" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scoutmark10-ui&layout=compact&theme=transparent" width="48%" />
 </p>---
 
 📈 Contribution
